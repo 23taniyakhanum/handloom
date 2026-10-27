@@ -280,4 +280,5 @@ MIT License - see LICENSE file for details.
 ---
 
 **Digital Handloom Design Network** — Where tradition meets technology. 🪷#   h a n d l o o m  
+ #   h a n d l o o m  
  
